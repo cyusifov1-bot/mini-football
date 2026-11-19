@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\mini football\mini football\bin\Debug\net9.0-windows\mini football.exe
+C:\Users\User\source\repos\mini football\mini football\bin\Debug\net9.0-windows\mini football.deps.json
+C:\Users\User\source\repos\mini football\mini football\bin\Debug\net9.0-windows\mini football.runtimeconfig.json
+C:\Users\User\source\repos\mini football\mini football\bin\Debug\net9.0-windows\mini football.dll
+C:\Users\User\source\repos\mini football\mini football\bin\Debug\net9.0-windows\mini football.pdb
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini_football.Form1.resources
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini_football.Properties.Resources.resources
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.csproj.GenerateResource.cache
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.AssemblyInfo.cs
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.dll
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\refint\mini football.dll
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.pdb
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\mini football.genruntimeconfig.cache
+C:\Users\User\source\repos\mini football\mini football\obj\Debug\net9.0-windows\ref\mini football.dll
